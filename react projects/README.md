@@ -1,6 +1,5 @@
 # React Projects
 
-## Corresponding Tutorial Topics
 
 #### useState
 
